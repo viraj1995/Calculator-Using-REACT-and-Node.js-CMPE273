@@ -46,28 +46,7 @@ result = first / second
     res.send({
  result
     }
-        /*result : "Calculated"
-        let  = req.body.operator
-        switch(operator) {
-        case : Add
-    result: fnum + snum;
-        break;
-        case : Subtract
-        result: fnum - snum;
 
-        break;
-        case Multiply:
-        result: fnum * snum
-
-        break;
-        case Divide:
-        result: fnum / snum
-
-        break;
-
-        case Default:
-        result: console.log('Something went wrong.')
-        result : "Calculated"*/
         );
 })
 
